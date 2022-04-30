@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Javascript;
 - 🤔 I’m looking for help with Javascript, HTML/CSS and Python;
 
+## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <a href="https://github.com/williammmoura">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=williammmoura&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
