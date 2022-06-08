@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi, I'm William Moura.
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> Hi, I'm William Moura.
 
 
 - 🌱 I’m currently learning Javascript;
