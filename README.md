@@ -1,7 +1,7 @@
 Hi, I'm William Moura.
 
 
-- 🌱 I’m currently learning full-stack development;
+- 🌱 I am a FullStack Developer;
 - 🤔 I’m looking for help with Javascript, HTML/CSS and Python;
 
 ## ⚙️ GitHub Analytics
