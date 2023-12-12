@@ -1,8 +1,7 @@
 Hi, I'm William Moura.
 
 
-- 🌱 I am a FullStack Developer;
-- 🤔 I’m looking for help with Javascript, HTML/CSS and Python;
+- 👨‍💻 I am a FullStack Developer;
 
 ## ⚙️ GitHub Analytics
 <div align="center">
