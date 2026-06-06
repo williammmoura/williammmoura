@@ -1,6 +1,6 @@
 # Hi, I'm William Moura 👋
 
-🌦️ Meteorologist and Full Stack Developer
+🌦️🌦️ Meteorologist | 💻 Full Stack Developer in Training | 📊 Data Science Enthusiast
 
 I develop web applications and data solutions using HTML, CSS, Javascript, React and Python.
 
@@ -8,13 +8,6 @@ Currently focused on:
 - Full Stack Development
 - Data Science
 - Weather and Climate Applications
-
-## ⚙️ GitHub Analytics
-<div align="center">
-  <a href="https://github.com/williammmoura">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=williammmoura&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williammmoura&layout=compact&langs_count=7&theme=merko"/>
-</div>
 
 ## Technologies
 <div align='center'>
