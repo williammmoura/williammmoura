@@ -1,7 +1,13 @@
-Hi, I'm William Moura.
+# Hi, I'm William Moura 👋
 
+🌦️ Meteorologist and Full Stack Developer
 
-- 👨‍💻 I am a FullStack Developer;
+I develop web applications and data solutions using HTML, CSS, Javascript, React and Python.
+
+Currently focused on:
+- Full Stack Development
+- Data Science
+- Weather and Climate Applications
 
 ## ⚙️ GitHub Analytics
 <div align="center">
@@ -10,18 +16,34 @@ Hi, I'm William Moura.
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williammmoura&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-##  Technologies | Frameworks | Tools 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-</div>
+### Front-End
+
+<img align="center" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> • <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> • <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> • <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> • <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+          
+
+### Back-End
+
+ <img align="center" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+### Data & Analytics
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> • <img align="center" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> • <img align="center" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> • <img align="center" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+
+### Database
+
+<img align="center" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+### Tools
+
+<img align="center" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> • <img align="center" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> • <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /> • <img align="center" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   
 ## My contacts 
 <div align="center"> 
